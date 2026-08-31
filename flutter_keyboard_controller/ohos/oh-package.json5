@@ -1,0 +1,11 @@
+{
+  "name": "flutter_keyboard_controller",
+  "version": "1.0.4",
+  "description": "Frame-by-frame keyboard animation tracking for Flutter on OpenHarmony.",
+  "main": "Index.ets",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@ohos/flutter_ohos": "file:./har/flutter.har",
+  }
+}
