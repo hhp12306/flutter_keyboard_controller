@@ -1,0 +1,11 @@
+{
+  "name": "flutter_keyboard_controller15",
+  "version": "1.0.4",
+  "description": "Keyboard height plugin for HarmonyOS 5.0.3 (API 15) only.",
+  "main": "Index.ets",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@ohos/flutter_ohos": "file:./har/flutter.har",
+  }
+}
